@@ -1,6 +1,6 @@
 # JavaScript API Specification
 
-> Work in progress
+> Work in progress & Test
 
 In the past few years [OpenAPI](https://github.com/OAI/OpenAPI-Specification) (formerly Swagger) has become a de-facto standard for describing REST APIs, while a format for non-REST APIs is still lacking.
 
@@ -37,5 +37,5 @@ The purpose of this project is to define and provide a standard for describing J
 - [jsdoc2spec](https://github.com/miralemd/jsdoc2spec) A tool that generates an API specification from JSDoc annotations
 - Markdown API reference documentation (coming soon)
 - Visualize API (coming soon)
-    ![Visual API](./assets/visual.png)
-    > A visual representation of [nodejs/spec.json](./examples/nodejs/spec.json)
+  ![Visual API](./assets/visual.png)
+  > A visual representation of [nodejs/spec.json](./examples/nodejs/spec.json)
